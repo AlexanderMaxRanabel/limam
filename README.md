@@ -1,2 +1,2 @@
-# limam
-limam is a lightweight,fast and reliable code editor made in c#
+# oxidite
+oxidite ox is a lightweight,fast and reliable code editor made in c#
